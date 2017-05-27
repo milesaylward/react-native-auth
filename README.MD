@@ -4,7 +4,7 @@ Authentication for React-native App on IOS using Firebase
 
 ## Getting Started
 
-Git Clone the repo then cd auth
+Git Clone the repo then cd react-native-auth
 
 ### Prerequisites
 
