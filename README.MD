@@ -9,6 +9,8 @@ Git Clone the repo then cd react-native-auth
 ### Prerequisites
 
 To run this project you will need Xcode, Homebrew, Node/NPM, watchman, and the React Native CLI
+You will also need to sign up for a forebase account and replace the area that is marked "Your auth info"
+with the information from fribase under "add firbase to your web app"
 
 
 ### Installing
