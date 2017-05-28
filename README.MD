@@ -58,5 +58,3 @@ react-native run-ios
 
 * [React-Native](https://facebook.github.io/react-native/) - The web framework used
 * [NPM](https://www.npmjs.com/get-npm) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-s
